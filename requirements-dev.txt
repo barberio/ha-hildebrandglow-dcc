@@ -1,4 +1,4 @@
-black==24.8.0
+black==24.10.0
 homeassistant
 isort==5.13.2
 pyglowmarkt==0.5.6
